@@ -1,4 +1,4 @@
-# kharcha_management_app
+# Kharcha Management App
 
 Kharcha Management is an expense tracker app created with Flutter.
 
